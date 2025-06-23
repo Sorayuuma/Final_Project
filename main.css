@@ -105,3 +105,11 @@ footer a:hover {
   color: blue;
   text-shadow: 0 0 5px white;
 }
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 480px) {
+  
+}
